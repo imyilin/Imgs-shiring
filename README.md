@@ -3,5 +3,5 @@
 ###    上传地址：[传送门](https://gitee.com/yilinya/imagebed/upload/master)
 ###    图片压缩地址：[传送门](https://docsmall.com/image-compress)
 
-#### ACG:
-#### 10班表情包：
+#### ACG:[传送门](https://acgimg.yilinblog.xyz/)
+#### 10班表情包：[传送门](https://cl10imgs.yilinblog.xyz/)
